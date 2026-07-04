@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="53hdYC7PSVDixjldaZ87" name="Token-Signing">
-    <mxGraphModel dx="1131" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="508" dy="301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -696,6 +696,12 @@
             <mxPoint x="1005" y="130" as="sourcePoint" />
             <mxPoint x="585" y="625" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_jfV8txFSLjV4ZaOpoXF-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;User Access to Workflow&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="165.19" x="420" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_jfV8txFSLjV4ZaOpoXF-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot;&gt;Hand-Off to Monitor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="140" x="685.19" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
